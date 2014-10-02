@@ -1,0 +1,18 @@
+{
+  "name": "react-leaflet",
+  "version": "0.0.0",
+  "description": "React components for Leaflet maps",
+  "main": "lib/index.js",
+  "keywords": [
+    "react",
+    "leaflet",
+    "map"
+  ],
+  "author": "Paul Le Cam <paul@ulem.net>",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^0.7.3",
+    "lodash": "^2.4.1",
+    "react": "^0.11.1"
+  }
+}
